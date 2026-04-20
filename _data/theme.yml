@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: objects/https://assets.vogue.com/photos/636e85f125e678e5211b99e3/master/w_2560%2Cc_limit/2%2520_%25201976-Itim-Isang-Eksplorasyon-001.jpg
+featured-image: objects/https://od2-workbench-api.abs-cbn.com/api/upload-raw/20241025091028/445de4b2eb20be64ab9730ed8c707af4fdfefb52490b7fe501d7b2dc6c7c893c.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
